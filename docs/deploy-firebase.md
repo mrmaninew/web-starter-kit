@@ -35,6 +35,10 @@ guide](https://www.firebase.com/docs/hosting/quickstart.html).
     This works because when you run `gulp` to build your application, WSK
     builds everything and places it all in `dist`. So `dist` contains
     everything your application needs to run.
+    
+1. Install Dependencies 
+         
+        yarn 
 
 1.  Build
 
